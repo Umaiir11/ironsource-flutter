@@ -6,9 +6,9 @@ import 'package:ironsource_mediation/ironsource_mediation.dart';
 import 'main.dart';
 
 class RewardedAdController extends GetxController with LevelPlayRewardedAdListener, LevelPlayInitListener {
-  static const String _appKeyAndroid = '85460dcd';
+  static const String _appKeyAndroid = '2262bb105';
   static const String _appKeyIos = '8545d445';
-  static const String _rewardedAdUnitIdAndroid = '76yy3nay3ceui2a3';
+  static const String _rewardedAdUnitIdAndroid = 'bndaxhezdxzbl09x';
   static const String _rewardedAdUnitIdIos = 'qwouvdrkuwivay5q';
   static const String _appUserId = '[YOUR_UNIQUE_APP_USER_ID]';
 
